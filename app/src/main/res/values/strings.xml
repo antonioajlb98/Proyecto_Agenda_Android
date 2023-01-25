@@ -1,0 +1,11 @@
+<resources>
+    <string name="form_activity_name">Formulario</string>
+    <string color="white" name="list_activity">Listado</string>
+    <string name="name">Antonio Jesus Luque Bolivar</string>
+    <string name="appName">Agenda</string>
+    <string name="ver">1.0</string>
+    <string name="language">Kotlin</string>
+    <string name="tecnology">AndroidStudio</string>
+    <string name="idioma">Español</string>
+    <string name="info_activity_name">Información</string>
+</resources>
